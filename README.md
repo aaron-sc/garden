@@ -2,4 +2,4 @@
 A garden monitor
 
 
-run ./garden.sh!
+run sudo chmod +x && ./garden.sh
