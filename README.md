@@ -1,5 +1,5 @@
 # garden
 A garden monitor
 
-
-run sudo chmod +x && ./garden.sh
+--TO UPDATE--
+`mv garden.sh ~ && sudo chmod +x garden.sh && ./garden.sh`
