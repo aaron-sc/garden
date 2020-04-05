@@ -1,5 +1,4 @@
 # garden
 A garden monitor
 
-
-run sudo chmod +x && ./garden.sh
+`mv garden.sh ~ && sudo chmod +x garden.sh && ./garden.sh`
