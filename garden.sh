@@ -1,6 +1,6 @@
 #!/bin/bash
 cd ..
-if[ ! -d "garden"]; then
+if[ ! -d "garden" ]; then
 	sudo git clone https://github.com/aaron-sc/garden.git
 	echo "Downloaded! Installing tools!"
 	sudo python3 pip install -r garden/requirements.txt
